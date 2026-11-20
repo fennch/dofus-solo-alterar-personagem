@@ -10,8 +10,8 @@ Antes de cada alteração, a aplicação guarda uma cópia do save na pasta de b
 
 ## Como instalar
 
-1. Na página do repositório, clique em **Releases** (à direita) e baixe o arquivo **AlterarPersonagem.zip**.
-   Ou clique no botão verde **Code** e depois em **Download ZIP**.
+1. Baixe o ZIP: na página do repositório, clique em **Releases** (à direita), abra a versão mais nova e clique em **Source code (zip)**.
+   Também funciona pelo botão verde **Code** e depois **Download ZIP**.
 2. Clique com o botão direito no ZIP baixado e escolha **Extrair Tudo**.
 3. Abra a pasta extraída e dê dois cliques em **Instalar.cmd**.
 4. O instalador cria a pasta **Alterar Personagem** na sua área de trabalho. Use sempre o **Alterar Personagem.cmd** dessa pasta.
